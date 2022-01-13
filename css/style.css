@@ -3,14 +3,19 @@
 }
 
 #pattern{
-    width: 900px;
-    height: 150px;
+    background-image: url(/Users/manuelgerolin/ManuelCorsi/Boolean55/html-css-booleaner/html-css-booleaner/img/pattern.png);
+    background-size:contain;
+    background-repeat: repeat-x;
+    background-color: cornflowerblue;
+    width: auto;
+    height: 100px;
 }
 
-#pattern-img{
-    width: auto;
-    height: 80%;
-    background-repeat:repeat;
+#logo {
+    width: auto%;
+    height: 50%;
+    margin-top: 40pt;
+    margin-right: 0pxt;
 }
 
 
