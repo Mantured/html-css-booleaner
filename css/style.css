@@ -12,12 +12,14 @@
 }
 
 #date{
-    font-weight: normal;
+    font-weight: lighter;
     font-size: 10pt;
     margin-top: auto;
 
 }
 
-#head{
-    
+#captions{
+    font-size: 10px;
+    font-weight: lighter;
+    line-height: 1px;
 }
