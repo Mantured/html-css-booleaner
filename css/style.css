@@ -28,6 +28,40 @@
     background-color: white;
 }
 
+#pie{
+    color: rgb(153, 153, 153);
+}
+
+#img-monitor{
+    margin: 0px;
+    background-image: url(/Users/manuelgerolin/ManuelCorsi/Boolean55/html-css-booleaner/img/monitor.jpg);
+    background-repeat: no-repeat;
+    color: #FFFFFF;
+    font-size: 140%;
+    font-weight: normal;
+    line-height: 30px ;
+    text-align:left;
+    width: 250px;
+    height: 180px;
+}
+
+#img-plaugeinc{ 
+    margin: 0px;
+    margin-top: 8px;
+    background-image: url(/Users/manuelgerolin/ManuelCorsi/Boolean55/html-css-booleaner/img/graph.jpg);
+    background-repeat: no-repeat;
+    color: #FFFFFF;
+    font-size: 140%;
+    font-weight: normal;
+    line-height: 30px ;
+    text-align:left;
+    width: 250px;
+    height: 180px;
+}
+
+
+
+
 mark{
     background-color: yellow;
 }
