@@ -1,11 +1,23 @@
 #title{
     font-size: 30pt;
+    margin-bottom: 5px;
 }
 
 #sub-title{
-    display: inline;
+    /* comando usato nel caso in cui avessi dovuto dividere le due parole display: inline;*/
+    font-size: 13pt;
+    font-weight: normal;
+    margin-top: auto;
+    margin-bottom: 5px ;
 }
 
-#author{
-    display: inline;
+#date{
+    font-weight: normal;
+    font-size: 10pt;
+    margin-top: auto;
+
+}
+
+#head{
+    
 }
