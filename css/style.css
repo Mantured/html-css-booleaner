@@ -1,3 +1,17 @@
+#heading{
+    background-image: url(//Users/manuelgerolin/ManuelCorsi/Boolean55/html-css-booleaner/img/pattern.png);
+    background-color: rgb(96, 183, 233);
+    width: 150%;
+    height: 100%;
+}
+
+#logo{
+    width: 10%;
+    height: 10%%;
+}
+
+
+
 #title{
     font-size: 30pt;
     margin-bottom: 5px;
@@ -30,6 +44,7 @@
 
 #pie{
     color: rgb(153, 153, 153);
+    margin-bottom: 10px;
 }
 
 #img-monitor{
