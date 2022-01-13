@@ -24,13 +24,27 @@
     line-height: 1px;
 }
 
+#central-line{
+    background-color: white;
+}
+
 mark{
     background-color: yellow;
 }
 
-.list{
+table{
     table-layout: fixed;
     text-align: left;
     width: 100%;
+    font-size: 13px;
+    border-collapse: collapse; /*serve ad eliminare i bordi nella tabella*/
 }
 
+th{
+    color: white;
+    background-color: rgb(96, 183, 233);
+}
+
+tr{
+    background-color: rgb(143, 242, 255);
+}
