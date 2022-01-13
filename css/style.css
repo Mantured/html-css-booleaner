@@ -27,3 +27,10 @@
 mark{
     background-color: yellow;
 }
+
+.list{
+    table-layout: fixed;
+    text-align: left;
+    width: 100%;
+}
+
